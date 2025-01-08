@@ -14,11 +14,11 @@ This project implements a simple Snake game using Python, developed as part of t
 
 ## Relevance to Curriculum
 ### Unit 3: Programming
-- **Variables and Data Types**: Random positions for the snake and food are determined using variables and the `random` library.
 - **Functions**: The game uses modular functions to handle different aspects of gameplay, like `drawGrid`, `move_snake`, and `adjust_snake`.
 - **Control Structures**: `if-elif` and `for` loops manage gameplay mechanics and grid drawing.
 
 ### Unit 4: Algorithms (Better Fit)
+- **Variables and Data Types**: Random positions for the snake and food are determined using variables and the `random` library.
 - **Algorithm Design**: Implements complex algorithms for:
   - Movement of the snake.
   - Collision detection for both walls and the snake's body.
